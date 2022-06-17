@@ -1,0 +1,12 @@
+[
+  {
+    "package": "mully",
+    "oncran": true
+  },
+  {
+    "package": "ndexr"
+  },
+  {
+    "package": "rBiopaxParser"
+  }
+]
