@@ -18,3 +18,8 @@
 	url = https://github.com/frankkramer-lab/rbiopaxparser
 	shallow = true
 	registered = true
+[submodule "RCX"]
+	path = RCX
+	url = https://github.com/frankkramer-lab/rcx
+	shallow = true
+	registered = true
