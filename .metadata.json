@@ -4,6 +4,12 @@
     "oncran": true
   },
   {
+    "package": "ndexr"
+  },
+  {
+    "package": "rBiopaxParser"
+  },
+  {
     "package": "RCX"
   }
 ]
