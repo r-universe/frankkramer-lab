@@ -8,11 +8,6 @@
 	url = https://github.com/frankkramer-lab/mully
 	shallow = true
 	registered = true
-[submodule "rBiopaxParser"]
-	path = rBiopaxParser
-	url = https://github.com/frankkramer-lab/rbiopaxparser
-	shallow = true
-	registered = true
 [submodule "RCX"]
 	path = RCX
 	url = https://github.com/frankkramer-lab/rcx
