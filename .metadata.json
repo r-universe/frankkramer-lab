@@ -1,7 +1,6 @@
 [
   {
-    "package": "mully",
-    "oncran": true
+    "package": "mully"
   },
   {
     "package": "ndexr"
