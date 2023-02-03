@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mully"]
-	path = mully
-	url = https://github.com/frankkramer-lab/mully
-	shallow = true
-	registered = true
 [submodule "ndexr"]
 	path = ndexr
 	url = https://github.com/frankkramer-lab/ndexr
