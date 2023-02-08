@@ -18,3 +18,8 @@
 	url = https://github.com/frankkramer-lab/rcx
 	shallow = true
 	registered = true
+[submodule "mully"]
+	path = mully
+	url = https://github.com/frankkramer-lab/mully
+	shallow = true
+	registered = true
