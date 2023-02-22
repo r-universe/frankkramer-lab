@@ -9,6 +9,7 @@
     "package": "RCX"
   },
   {
-    "package": "mully"
+    "package": "mully",
+    "oncran": true
   }
 ]
