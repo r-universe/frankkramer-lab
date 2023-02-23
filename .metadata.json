@@ -1,5 +1,9 @@
 [
   {
+    "package": "mully",
+    "oncran": true
+  },
+  {
     "package": "ndexr"
   },
   {
@@ -7,9 +11,5 @@
   },
   {
     "package": "RCX"
-  },
-  {
-    "package": "mully",
-    "oncran": true
   }
 ]
