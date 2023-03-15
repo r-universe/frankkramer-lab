@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RCX"]
-	path = RCX
-	url = https://github.com/frankkramer-lab/rcx
+[submodule "mully"]
+	path = mully
+	url = https://github.com/frankkramer-lab/mully
 	shallow = true
 	registered = true
 [submodule "ndexr"]
@@ -13,13 +13,13 @@
 	url = https://github.com/frankkramer-lab/ndexr
 	shallow = true
 	registered = true
-[submodule "mully"]
-	path = mully
-	url = https://github.com/frankkramer-lab/mully
-	shallow = true
-	registered = true
 [submodule "rBiopaxParser"]
 	path = rBiopaxParser
 	url = https://github.com/frankkramer-lab/rbiopaxparser
+	shallow = true
+	registered = true
+[submodule "RCX"]
+	path = RCX
+	url = https://github.com/frankkramer-lab/rcx
 	shallow = true
 	registered = true
