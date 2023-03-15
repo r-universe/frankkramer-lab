@@ -1,15 +1,15 @@
 [
   {
-    "package": "mully",
-    "oncran": true
+    "package": "RCX"
   },
   {
     "package": "ndexr"
   },
   {
-    "package": "rBiopaxParser"
+    "package": "mully",
+    "oncran": true
   },
   {
-    "package": "RCX"
+    "package": "rBiopaxParser"
   }
 ]
