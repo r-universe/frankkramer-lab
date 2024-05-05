@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RCX"]
-	path = RCX
-	url = https://github.com/frankkramer-lab/rcx
 [submodule "mully"]
 	path = mully
 	url = https://github.com/frankkramer-lab/mully
-[submodule "ndexr"]
-	path = ndexr
-	url = https://github.com/frankkramer-lab/ndexr
-[submodule "rBiopaxParser"]
-	path = rBiopaxParser
-	url = https://github.com/frankkramer-lab/rbiopaxparser
